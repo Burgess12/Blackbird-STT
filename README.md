@@ -53,6 +53,10 @@ A: See above
 
 A: Because I don't want to pay for your API usage. There are free alternatives out there if you look hard enough.
 
+### Q: Why is it called BlueBird and not BlackBird?
+
+A: I may have made a slight blunder when naming the project
+
 ### Q: Is this a school project?
 
 A: Yes and no, I made it for myself but I am also submitting it for a school project (Hi Miss, B I commented my work this time)
