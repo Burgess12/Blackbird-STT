@@ -30,18 +30,31 @@ A personal project for my own whisper client so I dont have to run to my browser
 3. Run `dotnet build`
 <br>
 If that doesn't work you probably need to install the .NET 7.0 SDK
+
 ## Q & A
+
 ### Q: HELP IT NO WORK
+
 Just open an issue and I'll try to help you out.
+
 ### Q: Why is it called BlackBird?
+
 A: Because Black Cockatoo's are an endangered species that are native to Australia that lack funding for conservation efforts
+
 ### Q: This sucks
+
 A: yes its a personal project that I made for myself, if you want to make it better feel free to open a PR
+
 ### Q: Why is it so ugly?
+
 A: See above
+
 ### Q: Why Does it not come with an API key?
+
 A: Because I don't want to pay for your API usage. There are free alternatives out there if you look hard enough.
+
 ### Q: Is this a school project?
+
 A: Yes and no, I made it for myself but I am also submitting it for a school project (Hi Miss, B I commented my work this time)
 
 
