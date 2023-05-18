@@ -45,17 +45,18 @@ A: Because Black Cockatoo's are an endangered species that are native to Austral
 
 A: yes its a personal project that I made for myself, if you want to make it better feel free to open a PR
 
-### Q: Why is it so ugly?
+### Q: Why do i need to go into the appdata folder to add my API key?
 
-A: See above
+A: <br> 1. easier to hide the API key from the public
+<br> 2. Compered to other way I have seem this is easier for you. That's right I did this for you
 
 ### Q: Why Does it not come with an API key?
 
 A: Because I don't want to pay for your API usage. There are free alternatives out there if you look hard enough.
 
-### Q: Why is it called BlueBird and not BlackBird?
+### Q: Why is it called BlueBird in several places?
 
-A: I may have made a slight blunder when naming the project
+A: I may have made a slight blunder when naming the project, and rider keeps throwing errors when I try to rename it.
 
 ### Q: Is this a school project?
 

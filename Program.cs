@@ -16,6 +16,12 @@ static class Program
         if (!File.Exists(Variable.ConfigFilePath + "/.openai"))
         {
             File.Create(Variable.ConfigFilePath + "/.openai").Close();
+            // Now we need to write the api key placeholder to the file using a streamwriter
+
+            using (StreamWriter Add_place_holder = new StreamWriter(Variable.ConfigFilePath + "/.openai"))
+            {
+                Add_place_holder.WriteLine("{\n" + "\t\"apiKey\": \"sk-<your api key here>\"" + "\n}"); 
+            }
         }
         // very important this makes a folder in %appdata% for the program to store temp files
         try
