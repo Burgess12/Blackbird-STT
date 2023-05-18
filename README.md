@@ -71,6 +71,10 @@ A: I may have made a slight blunder when naming the project, and rider keeps thr
 
 A: Yes and no, I made it for myself but I am also submitting it for a school project (Hi Miss, B I commented my work this time)
 
+### Q: What about Linux and/or Mac?
+
+A: Its a WinForms app, so try [Wine](https://www.winehq.org/)? If that doesn't work then no.
+
 
 ## Credits
 - [OpenAI](https://beta.openai.com/) for the API
