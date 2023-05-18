@@ -11,7 +11,6 @@ A personal project for my own whisper client so I dont have to run to my browser
 
 ## Requirements
 - Windows
-- Some common sense
 - An education that taught you how to read
 - An API key from [OpenAI](https://beta.openai.com/)
 
@@ -26,7 +25,7 @@ A personal project for my own whisper client so I dont have to run to my browser
 8. Run the exe again
 9. Profit
 
-### How to use for dummies
+### How to use
 1. Click the big record button
 2. Talk
 3. Click the stop button
@@ -49,10 +48,6 @@ Just open an issue and I'll try to help you out.
 ### Q: Why is it called BlackBird?
 
 A: Because Black Cockatoo's are an endangered species that are native to Australia that lack funding for conservation efforts
-
-### Q: This sucks
-
-A: yes its a personal project that I made for myself, if you want to make it better feel free to open a PR
 
 ### Q: Why do i need to go into the appdata folder to add my API key?
 
@@ -82,5 +77,3 @@ A: Its a WinForms app, so try [Wine](https://www.winehq.org/)? If that doesn't w
 - [NAudio](https://github.com/naudio/NAudio) for the audio recording
 - All the other libraries I used that I forgot to mention
 
-## License
-Why do I need a license. do whatever you want with it.
