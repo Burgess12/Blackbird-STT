@@ -6,16 +6,18 @@ A personal project for my own whisper client so I dont have to run to my browser
 
 ## Features
 - [x] Speech to text
+- [x] Saving the text to a file
 <br> That's it
 
 ## Requirements
 - Windows
 - Some common sense
+- An education that taught you how to read
 - An API key from [OpenAI](https://beta.openai.com/)
 
 ## How to use
 1. Download the latest release
-2. Run the exe (it will error thats ok)
+2. Run the exe (it will error that's ok its meant to)
 3. Close the exe
 4. Press windows key + R and type `appdata`
 5. Navigate to `Local\BlackBird\Config`
@@ -23,6 +25,13 @@ A personal project for my own whisper client so I dont have to run to my browser
 7. Save the file
 8. Run the exe again
 9. Profit
+
+### How to use for dummies
+1. Click the big record button
+2. Talk
+3. Click the stop button
+4. Click the transcript button
+5. Copy the text or save it to a file
 
 ## How to build
 1. Clone the repo
@@ -68,4 +77,6 @@ A: Yes and no, I made it for myself but I am also submitting it for a school pro
 - [OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) for the API wrapper
 - [NAudio](https://github.com/naudio/NAudio) for the audio recording
 - All the other libraries I used that I forgot to mention
-- Myself: with out you this would not be possible
+
+## License
+Why do I need a license. do whatever you want with it.
