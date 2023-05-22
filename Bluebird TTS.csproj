@@ -7,11 +7,19 @@
         <Nullable>enable</Nullable>
         <UseWindowsForms>true</UseWindowsForms>
         <ImplicitUsings>enable</ImplicitUsings>
+        <ApplicationIcon>icon.ico</ApplicationIcon>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="NAudio" Version="2.1.0" />
       <PackageReference Include="OpenAI-DotNet" Version="6.8.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="icon.ico" />
+      <AdditionalFiles Include="icon.ico">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </AdditionalFiles>
     </ItemGroup>
 
 </Project>
