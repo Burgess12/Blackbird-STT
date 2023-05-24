@@ -77,3 +77,5 @@ A: Its a WinForms app, so try [Wine](https://www.winehq.org/)? If that doesn't w
 - [NAudio](https://github.com/naudio/NAudio) for the audio recording
 - All the other libraries I used that I forgot to mention
 
+
+

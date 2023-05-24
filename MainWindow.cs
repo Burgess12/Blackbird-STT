@@ -68,7 +68,7 @@ public partial class MainWindow : Form
         _copy.Click += new EventHandler(Copy_method);
 
         _stop.Enabled = false;
-        _transcribe.Enabled = false;
+        //_transcribe.Enabled = false;
         //_savelocation.Enabled = false;
 
 
